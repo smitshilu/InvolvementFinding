@@ -1,0 +1,27 @@
+Amy
+P 44
+N 94
+
+george
+P 29
+N 57
+
+mara
+P 35
+N 69
+
+meg
+P 74
+N 135
+
+michael
+P 26
+N 50
+
+michelle
+P 7
+N 21
+
+Nick
+P 10
+N 27
